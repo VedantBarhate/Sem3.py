@@ -1,0 +1,8 @@
+INFO:__main__:using info
+WARNING:__main__:using info
+ERROR:__main__:using error
+CRITICAL:__main__:using critical
+INFO and using info
+WARNING and using info
+ERROR and using error
+CRITICAL and using critical

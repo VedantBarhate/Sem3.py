@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Laptop",
+        "price": 80000
+    },
+    {
+        "name": "Smartphone",
+        "price": 35000
+    },
+    {
+        "name": "Headphones",
+        "price": 3000
+    },
+    {
+        "name": "Mouse",
+        "price": 1200
+    },
+    {
+        "name": "Keyboard",
+        "price": 2500
+    }
+]

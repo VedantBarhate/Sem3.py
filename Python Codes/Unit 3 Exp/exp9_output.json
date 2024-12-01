@@ -1,0 +1,14 @@
+[
+    {
+        "name\tsurname\tage\tcity": "john\tdoe\t25\tNY"
+    },
+    {
+        "name\tsurname\tage\tcity": "jack\thill\t28\tTX"
+    },
+    {
+        "name\tsurname\tage\tcity": "Bob\tZapp\t22\tLA"
+    },
+    {
+        "name\tsurname\tage\tcity": "rasta\tjoe\t31\tNC"
+    }
+]

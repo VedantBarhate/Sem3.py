@@ -1,0 +1,8 @@
+CustomerID,Age,Tenure,MonthlyCharges,TotalCharges,Gender_Male,Churn_Yes
+101,25.0,2.0,29.85,150.5,True,False
+102,34.0,5.0,56.95,500.2,False,True
+103,45.0,8.0,53.85,430.8,False,False
+104,34.666666666666664,1.0,42.3,180.0,True,False
+105,29.0,4.333333333333333,70.35,350.6,False,True
+106,40.0,7.0,89.1,630.3,True,True
+107,35.0,3.0,57.06666666666666,373.7333333333333,False,False
